@@ -23,7 +23,8 @@ public class RobotSquare {
     		jama.move(80);
     		jama.turn(360/Slide);
     		
-    	
+    	JOptionPane.showMessageDialog(null,"hi");
+    	String input = JOptionPane.showInputDialog("do you like cats");
    
     
     	}
